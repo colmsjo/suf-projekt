@@ -2,7 +2,7 @@
 
 ## Introduktion / terminologi
 
-I en webshop tar en organisation upp ordrar från sina kunder för olika typer av produkter. Oftast lägger kunderna de produkter de vill beställa i en kundvagn och checkar sedan ut och betalar för sin beställning. Både fysiska produkter som levereras till en kund och olika typer av tjänster/prenumerationer (som inte leveras fysiskt) säljs genom webshoppar.
+I en webshop tar en organisation upp ordrar från sina kunder för olika typer av produkter. Oftast lägger kunderna de produkter de vill beställa i en kundvagn och checkar sedan ut och betalar för sin beställning. Både fysiska produkter som levereras till en kund och olika typer av tjänster/prenumerationer (som inte leveras fysiskt) säljs genom webshoppar. Den grafiska layouten går att anpassa i alla webshoppar.
 
 ## Produkter, sortiment och prissättning
 
@@ -14,9 +14,7 @@ Det bör vara möjligt att låta olika personer kunna administrera olika delar a
 
 ## Redovisning
 
-Idealt hade alla betalningar automatiskt bokförts i bökföringssystemet. Detta är förmodligen dyrt att få till om man inte kör en webshop-lösning som kommer från samma leverantör som bokföringssystemet.
-
-Alternativet är att skapa bokföringsunderlag från webshoppen eller använda uttdrag från banken.
+Idealt hade alla betalningar automatiskt bokförts i bökföringssystemet. Detta är förmodligen dyrt att få till om man inte kör en webshop-lösning som kommer från samma leverantör som bokföringssystemet. Alternativet är att skapa bokföringsunderlag från webshoppen eller använda uttdrag från banken.
  
 # Alternativ
 
@@ -32,9 +30,7 @@ Med en Open Source lösning är mjukvaran gratis (om man installerar den själv 
 
 ## Hosting
 
-AWS är ett alternativ att köpa en server i molnet. AWS används idag för att hantera domänen ultimatesweden.se (ligger under ett konto som SFF äger). Det enklaste är förmodligen att skaffa ett eget konto för SUF hos AWS (den enda som krävs är ett kredit-kort). En server hos AWS (EC2 t3.medium) kostar $400/år.
- 
-[AWS priser för en server](https://aws.amazon.com/ec2/pricing/on-demand/)
+AWS är ett alternativ att köpa en server i molnet. AWS används idag för att hantera domänen ultimatesweden.se (ligger under ett konto som SFF äger). Det enklaste är förmodligen att skaffa ett eget konto för SUF hos AWS (den enda som krävs är ett kreditkort). En server hos AWS (EC2 t3.medium) kostar $400/år.
 
 ## Betalningslösning
 
@@ -51,6 +47,7 @@ Shopify har en egen betalningslösning som kostar 2,9% + $0,3 per transaktion.
 # Länkar
 
 * [The Cheapest Possible Way to Launch an Ecommerce Store](https://ecommerce-platforms.com/ecommerce-selling-advice/the-cheapest-possible-way-to-launch-an-ecommerce-store)
+* [AWS priser för en server](https://aws.amazon.com/ec2/pricing/on-demand/)
 * [DIBS](https://www.dibs.se/woo-commerce)
 * [Klarna vs SveaWebPay](http://driva-webshop.se/klarna-eller-sveawebpay/)
 * [PayPal kostnader](https://www.paypal.com/se/webapps/mpp/paypal-fees)
