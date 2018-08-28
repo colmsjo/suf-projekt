@@ -43,6 +43,9 @@ Inte heller Magento tycks vid en första check ha stöd för olika administratö
 
 Inget om flera shop admins. Mer info [här](https://help.shopify.com/en/manual/intro-to-shopify/shopify-admin/shopify-admin-overview).
 
+## Multi-store / Multi-vendor store
+
+Eftersom ingen av de lösningar som undersökts tycks ha stöd för flera administratörer/shop-managers har jag börjat titta på en s.k. multi-store lösning. Hittade ett Quora inlägg [här](https://www.quora.com/I-want-a-website-where-people-can-make-their-stores-and-sell-their-products-My-website-will-be-just-like-a-shopping-mall-where-different-sellers-will-add-their-products-to-stores-What-are-any-open-source-CMS-or-platforms-which-provide-this-functionality). WooCommerce nämns som ett alternativ som har en multi-store plugin.
 
 # Kostnad
 
