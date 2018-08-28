@@ -23,8 +23,26 @@ Idealt hade alla betalningar automatiskt bokförts i bökföringssystemet. Detta
 * Wordpress med eCom plugin som WooCommerce (båda Open Source)
 * Magento (Open Source)
 * Shopify (kommersiell, $29-/månad)
-* Webshop från Fortnox eller Speedledger
+* Webshop från Fortnox eller Speedledger - utreds ej närmare här
 * CRM lösning - en lösning som hanterar relationen med sina kunder/medlemmar. SalesForce har t.ex. en rabatterad lösning för non-profits. Detta alternativ utreds inte närmare här (men skulle kunna vara ett alterntiv om vi vill bygga en lösning för att hantera marknadsföring, kampanjer etc.).
+
+Nedan beskrivs kort de olika altertnativen. Fokus ligger främst på roller och rättigheter eftersom det är inom detta område vi har lite högre krav.
+
+
+## WooCommerce
+
+Verkar inte ha stöd för att olika personer hanterare olika delar av sortimentet i standardlösningen. Det kan finnas plug-ins för detta och det verkar också gå att ha en multi-store setup. Mer info [här](https://docs.woocommerce.com/document/roles-capabilities/)
+
+
+## Magento
+
+TBC.
+
+
+## Shopify
+
+TBC.
+
 
 # Kostnad
 
