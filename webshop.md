@@ -31,7 +31,7 @@ Nedan beskrivs kort de olika altertnativen. Fokus ligger främst på roller och 
 
 ## WooCommerce
 
-Verkar inte ha stöd för att olika personer hanterare olika delar av sortimentet i standardlösningen. Det kan finnas plug-ins för detta och det verkar också gå att ha en multi-store setup. Mer info [här](https://docs.woocommerce.com/document/roles-capabilities/)
+Verkar inte ha stöd för att olika personer hanterare olika delar av sortimentet i standardlösningen. Det kan finnas plug-ins för detta och det verkar också gå att ha en multi-store setup. Mer info [här](https://docs.woocommerce.com/document/roles-capabilities/).
 
 
 ## Magento
