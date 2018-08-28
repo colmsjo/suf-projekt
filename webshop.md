@@ -41,7 +41,7 @@ Inte heller Magento tycks vid en första check ha stöd för olika administratö
 
 ## Shopify
 
-TBC.
+Inget om flera shop admins. Mer info [här](https://help.shopify.com/en/manual/intro-to-shopify/shopify-admin/shopify-admin-overview).
 
 
 # Kostnad
