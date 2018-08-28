@@ -36,7 +36,7 @@ Verkar inte ha stöd för att olika personer hanterare olika delar av sortimente
 
 ## Magento
 
-TBC.
+Inte heller Magento tycks vid en första check ha stöd för olika administratörer för olika delar av sortimentet. Mer info [här](https://docs.magento.com/m1/ce/user_guide/store-operations/admin-overview.html). Multi-store setup nämns här också. En djupare utredning behövs...
 
 
 ## Shopify
