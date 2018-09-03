@@ -1,24 +1,59 @@
 # Ekonomisystem och Webshop
 
+# Nuläge
+
+## Huvudbok
+
+Bokföring görs manuellt i SpeedLedger av kansliet.
+
+## Inbetalningar / kundfakturor
+
+SUF har idag ett bankgiro som används för inbetalningar. Vissa landslag har ordnat med Swish men detta är inte kopplat till SUF:s bankkonto. Det finns en lösning i idrottonline för att generera fakturor för medlemsavgifter som skickas till Fortnox men den används inte.
+
+## Utbetalningar / leverantörsfakturor
+
+Alla utbetalningar görs idag från internetbanken av kansliet och bokförs manuellt. Vid behov av utbetalningar mailas kansliet som sedan sköter hanteringen.
+
+## Ekonomirapporter
+
+Endast kansliet kan ta ut ekonomirapporter idag.
 
 
-# Krav
+# Krav på framtida lösning
 
 ## Introduktion / terminologi
 
-I en webshop tar en organisation upp ordrar från sina kunder för olika typer av produkter. Oftast lägger kunderna de produkter de vill beställa i en kundvagn och checkar sedan ut och betalar för sin beställning. Både fysiska produkter som levereras till en kund och olika typer av tjänster/prenumerationer (som inte leveras fysiskt) säljs genom webshoppar. Den grafiska layouten går att anpassa i alla webshoppar.
+I ekonomisystemet hanteras den löpande bokföringen och det finns även stöd för kundfakturor, leverantörsfakturor, löner etc. i moderna lösningar. Det är viktigt att de lösningar som väljs fungerar bra tillsammans och med banken (som idag är Swedbank).
 
-## Produkter, sortiment och prissättning
+I en webshop tar en organisation upp ordrar från sina kunder för olika typer av produkter. Oftast lägger kunderna de produkter de vill beställa i en kundvagn och checkar sedan ut och betalar för sin beställning. Både fysiska produkter som levereras till en kund och olika typer av tjänster/prenumerationer (som inte leveras fysiskt) säljs genom webshoppar. Den grafiska layouten går att anpassa i alla webshoppar. Tanken med att använda en webshop är att göra det enkelt att ta emot betalningar från medlemsföreningarna och medlemmarna. Betalningarna kan vara för licenser, landslag etc.
 
-Vi har främst behov av att sälja tjänster (utan fysisk leverans) och har ej behov av premnumerationer. Produkterna ska organiseras i sortiment som olika personer kan administrera (se nedan). Vi har inte behov av rabatter eller prislistor som anpassas till respektive kund.
+SFF har beskrivit sina [rutiner](http://styrelse.frisbeesport.se/sff-rutiner) vilka till viss del är relevanta även för oss. 
+
+## Inbetalningar via webshop
+
+Vi har främst behov av att ta betalt för tjänster (utan fysisk leverans) och har i dagsläget ej behov av premnumerationer (även om detta skulle kunna användas för licenser). Produkterna ska helst gå att organiseras i sortiment som olika personer kan administrera (se nedan). Vi har inte behov av rabatter eller prislistor som anpassas till respektive kund.
+
+Idealt hade alla inbetalningar automatiskt bokförts i bökföringssystemet. Detta är förmodligen dyrt att få till om man inte kör en webshop-lösning som kommer från samma leverantör som bokföringssystemet. Alternativet är att skapa bokföringsunderlag från webshoppen eller använda uttdrag från banken.
+
+
+## Inbetalningar via Bankgiro och Swish
+
+Stöd för bankgiro ska finnas även i en framtida lösning. Inbetalningar bör gå att bokföra automatiskt. Ev. Swish bör kopplas till SUF:s bankkonto och även kopplas till bokföringen.
+
+
+## Leverantörsbetalningar
+
+En lösning där de som har behov av att göra utbetalningar (ekonomiansvarig i styrelsen, landslagsledare, projektledare, m.fl.) kan initiera utbetalningar är önskvärt. Betalningar av leverantörsfakturor bör automatiseras för att undvika dubbelarbete.
+
+
+## Rapporter
+
+Styrelsen måste ha möjlighet att själv ta ut ekonomirapporter. De som är ansvariga för ta in olika typer av avgifter måste själva kunna se vilket som har betalat.
+
 
 ## Roller och rättigheter
 
-Det bör vara möjligt att låta olika personer kunna administrera olika delar av sortimentet. T.ex. skulle ansvarig för respektive landslag administrera sina egna betalningar.
-
-## Redovisning
-
-Idealt hade alla betalningar automatiskt bokförts i bökföringssystemet. Detta är förmodligen dyrt att få till om man inte kör en webshop-lösning som kommer från samma leverantör som bokföringssystemet. Alternativet är att skapa bokföringsunderlag från webshoppen eller använda uttdrag från banken.
+Det bör vara möjligt att låta olika personer kunna administrera olika delar av sortimentet i webshoppen. Ansvarig för respektive landslag måste kunna se sina egna inbetalningar. Det behövs en funktion där olika attestflöden används beroende på beloppen på leverantörsfakturorna.
 
 
 # Webshop-lösningar
@@ -75,7 +110,8 @@ Shopify har en egen betalningslösning som kostar 2,9% + $0,3 per transaktion.
 
 # Ekonomisystem
 
-***TBC.***
+Två ekonomisystem som många använder är Fortnox oxh SpeedLedger. RF har avtal med både och SFF har valt att köra Fortnox. Dessa (och ev. andra alternativ) kommer att utvärderas mot de krav som listats ovan.
+
 
 
 # Länkar
@@ -86,3 +122,5 @@ Shopify har en egen betalningslösning som kostar 2,9% + $0,3 per transaktion.
 * [Klarna vs SveaWebPay](http://driva-webshop.se/klarna-eller-sveawebpay/)
 * [PayPal kostnader](https://www.paypal.com/se/webapps/mpp/paypal-fees)
 * [Shopify kostnader](https://www.shopify.com/pricing)
+
+* [SFF-rutiner](http://styrelse.frisbeesport.se/sff-rutiner) 
