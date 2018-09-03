@@ -1,4 +1,6 @@
-# Webshop för betalningar till SUF
+# Ekonomisystem och Webshop
+
+
 
 # Krav
 
@@ -17,8 +19,11 @@ Det bör vara möjligt att låta olika personer kunna administrera olika delar a
 ## Redovisning
 
 Idealt hade alla betalningar automatiskt bokförts i bökföringssystemet. Detta är förmodligen dyrt att få till om man inte kör en webshop-lösning som kommer från samma leverantör som bokföringssystemet. Alternativet är att skapa bokföringsunderlag från webshoppen eller använda uttdrag från banken.
- 
-# Alternativ
+
+
+# Webshop-lösningar
+
+## Alternativ
 
 * Wordpress med eCom plugin som WooCommerce (båda Open Source)
 * Magento (Open Source)
@@ -29,33 +34,33 @@ Idealt hade alla betalningar automatiskt bokförts i bökföringssystemet. Detta
 Nedan beskrivs kort de olika altertnativen. Fokus ligger främst på roller och rättigheter eftersom det är inom detta område vi har lite högre krav.
 
 
-## WooCommerce
+### WooCommerce
 
 Verkar inte ha stöd för att olika personer hanterare olika delar av sortimentet i standardlösningen. Det kan finnas plug-ins för detta och det verkar också gå att ha en multi-store setup. Mer info [här](https://docs.woocommerce.com/document/roles-capabilities/).
 
 
-## Magento
+### Magento
 
 Inte heller Magento tycks vid en första check ha stöd för olika administratörer för olika delar av sortimentet. Mer info [här](https://docs.magento.com/m1/ce/user_guide/store-operations/admin-overview.html). Multi-store setup [nämns här också](https://devdocs.magento.com/guides/v2.2/config-guide/multi-site/ms_over.html).
 
 
-## Shopify
+### Shopify
 
 Inget om flera shop admins. Mer info [här](https://help.shopify.com/en/manual/intro-to-shopify/shopify-admin/shopify-admin-overview).
 
-## Multi-store / Multi-vendor store
+### Multi-store / Multi-vendor store
 
 Eftersom ingen av de lösningar som undersökts tycks ha stöd för flera administratörer/shop-managers har jag börjat titta på en s.k. multi-store lösning. Hittade ett Quora inlägg [här](https://www.quora.com/I-want-a-website-where-people-can-make-their-stores-and-sell-their-products-My-website-will-be-just-like-a-shopping-mall-where-different-sellers-will-add-their-products-to-stores-What-are-any-open-source-CMS-or-platforms-which-provide-this-functionality). WooCommerce nämns som ett alternativ som har en multi-store plugin.
 
-# Kostnad
+## Kostnad
 
 Med en Open Source lösning är mjukvaran gratis (om man installerar den själv och inte väljer att köpa support). Det behövs någon form av hosting och betalningslösningarna tar också ut en avgift.
 
-## Hosting
+### Hosting
 
 AWS är ett alternativ att köpa en server i molnet. AWS används idag för att hantera domänen ultimatesweden.se (ligger under ett konto som SFF äger). Det enklaste är förmodligen att skaffa ett eget konto för SUF hos AWS (den enda som krävs är ett kreditkort). En server hos AWS (EC2 t3.medium) kostar $400/år.
 
-## Betalningslösning
+### Betalningslösning
 
 För att få en exakt kostnad behöver vi begära in offerter från några leverantörer. Här är grov 
 uppskattning för betaltjänster som tar kreditkort baserat på info jag hittat på nätet:
@@ -66,6 +71,12 @@ uppskattning för betaltjänster som tar kreditkort baserat på info jag hittat 
 Ett annat alternativ är att använda PayPal som tar c:a 3% + 3,25SEK (inga uppsättnings eller fasta kostnader).
 
 Shopify har en egen betalningslösning som kostar 2,9% + $0,3 per transaktion.
+
+
+# Ekonomisystem
+
+***TBC.***
+
 
 # Länkar
 
