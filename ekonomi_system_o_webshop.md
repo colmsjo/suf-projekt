@@ -48,7 +48,7 @@ En lösning där de som har behov av att göra utbetalningar (ekonomiansvarig i 
 
 ## Rapporter
 
-Styrelsen måste ha möjlighet att själv ta ut ekonomirapporter. De som är ansvariga för ta in olika typer av avgifter måste själva kunna se vilket som har betalat.
+Styrelsen måste ha möjlighet att själv ta ut ekonomirapporter. De som är ansvariga för ta in olika typer av avgifter måste själva kunna se vilket som har betalat. Det ska också vara möjligt att enkelt se vilka intäkter och kostander som olika projekt (landslag mm.) har haft. En lösning där transaktioner märks med projekt är en lösning och separata konton skulle också kunna användas.
 
 
 ## Roller och rättigheter
