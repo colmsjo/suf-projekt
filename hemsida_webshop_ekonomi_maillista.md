@@ -1,3 +1,20 @@
+## Change log
+
+180901  Jonas Colmsjö   Första version
+181011  Jonas Colmsjö   Bytt namn på filen och lagt till hemsida och maillistor
+
+# Hemsida och maillista
+
+## Hemsida
+
+Det enklaste är om hemsidan görs på samma plattform som webshoppen, se nedan. Wordpress och WooCommerce verkar vara en enkel lösning som man snabbt kan komma igång med.
+
+
+## Maillista
+
+SFF kansli underhåller en maillista (ultimateklubbar@frisbeesport.se). Adresser finns även i idrottonline. Det bästa hade varit om klubbarna själva kunde logga in och uppdatera sina kontaktuppgifter. Det borde finnas en plug-in will wordpress där klubbar kan få login att underhålla sina kontaktuppgifter. Ett alternativ kan också vara att använda Wordpress feature multisite som gör det möjligt att sätta upp flera WP-siter i en installation. En site skulle kunna vara ett intranet för Ultimateklubbarna.
+
+
 # Ekonomisystem och Webshop
 
 # Nuläge
