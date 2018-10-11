@@ -1,7 +1,7 @@
 ## Change log
 
-180901  Jonas Colmsjö   Första version
-181011  Jonas Colmsjö   Bytt namn på filen och lagt till hemsida och maillistor
+* 180901  Jonas Colmsjö   Första version
+* 181011  Jonas Colmsjö   Bytt namn på filen och lagt till hemsida och maillistor
 
 # Hemsida och maillista
 
