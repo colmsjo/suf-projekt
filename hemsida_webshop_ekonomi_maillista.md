@@ -139,5 +139,6 @@ Två ekonomisystem som många använder är Fortnox oxh SpeedLedger. RF har avta
 * [Klarna vs SveaWebPay](http://driva-webshop.se/klarna-eller-sveawebpay/)
 * [PayPal kostnader](https://www.paypal.com/se/webapps/mpp/paypal-fees)
 * [Shopify kostnader](https://www.shopify.com/pricing)
+* [stripe pricing](https://stripe.com/se/pricing)
 
 * [SFF-rutiner](http://styrelse.frisbeesport.se/sff-rutiner) 
