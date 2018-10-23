@@ -131,7 +131,7 @@ Shopify har en egen betalningslösning som kostar 2,9% + $0,3 per transaktion.
 ### Klarna
 
 En vanlig betalningslösning är klarna och dom har en WooCommerce plug-in. Klarna Checkout är nog den variant som passar SUF bäst. Utbetalningar från Klarna görs i klumpsummor med en fördröjning som beror på vilket avtal man har. Mer info finns i 
-[Klarnas FAQ](https://www.klarna.com/se/foretag/butikssupport/bokforing-utbetalning/nar-far-vi-utbetalningen-var-forsaljning/)
+[Klarnas FAQ](https://www.klarna.com/se/foretag/butikssupport/bokforing-utbetalning/nar-far-vi-utbetalningen-var-forsaljning/). I Klarna går det att skapa SIE filer vilka kan importeras till de flesta bokföringssystem så slipper man bokföra försäljningen manuellt.
 
 
 # Ekonomisystem
