@@ -125,9 +125,15 @@ Ett annat alternativ är att använda PayPal som tar c:a 3% + 3,25SEK (inga upps
 Shopify har en egen betalningslösning som kostar 2,9% + $0,3 per transaktion.
 
 
+### Klarna
+
+En vanlig betalningslösning är klarna och dom har en WooCommerce plug-in. Klarna Checkout är nog den variant som passar SUF bäst. Utbetalningar från Klarna görs i klumpsummor med en fördröjning som beror på vilket avtal man har. Mer info finns i 
+[Klarnas FAQ](https://www.klarna.com/se/foretag/butikssupport/bokforing-utbetalning/nar-far-vi-utbetalningen-var-forsaljning/)
+
+
 # Ekonomisystem
 
-Två ekonomisystem som många använder är Fortnox oxh SpeedLedger. RF har avtal med både och SFF har valt att köra Fortnox. Dessa (och ev. andra alternativ) kommer att utvärderas mot de krav som listats ovan.
+Två ekonomisystem som många använder är Fortnox oxh SpeedLedger. RF har avtal med både och SFF har valt att köra Fortnox. Dessa (och ev. andra alternativ) kommer att utvärderas mot de krav som listats ovan. 
 
 
 
