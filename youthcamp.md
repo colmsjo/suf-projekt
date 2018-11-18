@@ -1,5 +1,5 @@
-YouthCamp
-=========
+YouthCamp - Autumn & Spring
+===========================
 
 Grovt upplägg:
 
@@ -13,9 +13,11 @@ Grovt upplägg:
 * Autumn: marknadsför mot nybörjare/medel/elit, innan inomhussäsongen drar igång (nov)
 * Spring: marknadsför mot medel/elit: innan utomhussäsongen drar igång (mars-april)
 * Erfarna ungdomsledare med bakgrund som landslagcoacher håller i eventet (2x3 st) + 1 administrativt ansvarig 
+* Både terori och praktik, övningar och match
 * Finansiera med IL - håll kostnaden så låg som möjligt för deltagarna
 * Håll en utbildning för coacher
 * Coacherna får prova på att coacha under en miniturnering
+* Spelarpaket (t-shirts i olika färger att spela i, discar etc.)
 
 
 Exempel på schema
