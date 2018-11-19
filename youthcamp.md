@@ -1,6 +1,8 @@
 YouthCamp - Autumn & Spring
 ===========================
 
+*Mailadress: camps@ultimatesweden.se*
+
 Grovt upplägg:
 
 * Ultimate Frisbee Autumn/Spring Camp
