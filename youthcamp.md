@@ -93,6 +93,7 @@ Här är några siter som man kan söka efter hallar i:
 
 * [Stockholms Forbollsförbund](http://fotbollsyta.nu)
 * [Fogis](https://fogis.se/anlaggningarenor/anlaggningar/)
+  - [Anläggningsregister](https://d01.fogis.se/svenskfotboll.se/ImageVault/Images/id_170665/scope_0/ImageVaultHandler.aspx180627132502-uq)
 
 
 ## [Kartläggning SFF Juni 2018](https://d01.fogis.se/svenskfotboll.se/ImageVault/Images/id_170666/scope_0/ImageVaultHandler.aspx180627132919-uq)
