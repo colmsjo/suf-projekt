@@ -95,6 +95,7 @@ Här är några siter som man kan söka efter hallar i:
 * [Fogis](https://fogis.se/anlaggningarenor/anlaggningar/)
 
 
+## [Kartläggning SFF Juni 2018](https://d01.fogis.se/svenskfotboll.se/ImageVault/Images/id_170666/scope_0/ImageVaultHandler.aspx180627132919-uq)
 
 12 fullstora konstgräshallar återfinns i följande distrikt:
 * Göteborg  - Prioritet Serneke Arena Hall - Kviberg
