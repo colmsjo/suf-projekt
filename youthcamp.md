@@ -99,6 +99,7 @@ Här är några siter som man kan söka efter hallar i:
 ## [Kartläggning SFF Juni 2018](https://d01.fogis.se/svenskfotboll.se/ImageVault/Images/id_170666/scope_0/ImageVaultHandler.aspx180627132919-uq)
 
 12 fullstora konstgräshallar återfinns i följande distrikt:
+
 * Göteborg  - Prioritet Serneke Arena Hall - Kviberg
 * Hälsingland - BL Arena (Älvvallens övertryckshall) – Ljusdal
 * Medelpad - Nordic-hallen – Sundsvall
@@ -110,7 +111,9 @@ Här är några siter som man kan söka efter hallar i:
   - Tipshallen – Växjö
 * Stockholm 
   - Bosön – Lidingö
-  - Johan Björkmanhallen – Hjorthagen Nacka Fotbollstält (Airdome) Norrvikens Fotbollshall – Sollentuna
+  - Johan Björkmanhallen – Hjorthagen 
+  - Nacka Fotbollstält (Airdome) 
+  - Norrvikens Fotbollshall – Sollentuna
 * Värmland - Karlstad Airdome
 
 
