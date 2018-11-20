@@ -91,8 +91,28 @@ Arenor
 
 Här är några siter som man kan söka efter hallar i:
 
-
 * [Stockholms Forbollsförbund](http://fotbollsyta.nu)
 * [Fogis](https://fogis.se/anlaggningarenor/anlaggningar/)
+
+
+
+12 fullstora konstgräshallar återfinns i följande distrikt:
+* Göteborg 
+ - Prioritet Serneke Arena Hall - Kviberg
+* Hälsingland 
+ - BL Arena (Älvvallens övertryckshall) – Ljusdal
+* Medelpad - Nordic-hallen – Sundsvall
+* Norrbotten 
+ - Arcushallen – Luleå 
+ - Nolia Airdome – Piteå
+* Småland 
+ - Tipshallen Elmia – Jönköping 
+ - Tipshallen – Växjö
+* Stockholm 
+ - Bosön – Lidingö
+ - Johan Björkmanhallen – Hjorthagen Nacka Fotbollstält (Airdome) Norrvikens Fotbollshall – Sollentuna
+* Värmland - Karlstad Airdome
+
+
 
 
