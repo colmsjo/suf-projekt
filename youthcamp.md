@@ -117,5 +117,33 @@ Här är några siter som man kan söka efter hallar i:
 * Värmland - Karlstad Airdome
 
 
+### Hallar som är intressanta för oss
 
+
+|Hall					   |Ort			   |Kontakt													   |StorlekxTakhöjd       |
+|--------------------------|---------------|-----------------------------------------------------------|----------------------|						
+|Nacka fotbollstält		   |Nacka			|bokningfritid@nacka.se 08-718 88 00						|100x62	|
+|Sollentuna fotbollshall   |Sollentuna		|idrottskonsulenter@sollentuna.se							|103x63	|
+|Elmiahallen			   |Jönköping		|elmiahallen@j-sodra.se										|104x65	|
+|Multihallen			   |Bosön			|meet@boson.nu												|105x65	|
+|Johan Björkmans hall	   |Stockholm		|mats.jansson@dif.se linn.andersson@dif.se 070-404 96 42	|105x65	|
+|Tipshallen				   |Växjö			|foreningsservice@vaxjo.se 0470-41200						|105x65	|
+|Serneke Arena			   |Göteborg		|info@escapesport.se, marcus@escapesport.se, 033-25 88 50	|105x65	|
+|Airdome				   |Karlstad		|0708-572220 Mikael Linder info@karlstadairdome.com			|112x76	|
+|Arenahallen			   |Kristinehamn	|Tomas Olsson 010-4050112									|90x57	|
+|Västergårdshallen		   |Södertälje		|boka@sodertalje.se											|80x40	|
+|Teknishallen			   |Norrköping		|															|72x45	|
+|Tunahallen				   |Eskilstuna		|arenor@eskilstuna.se uthyrningen@eskilstuna.se anders.neimann@eskilstuna.se |72x32	|
+|Fotbollshallen			   |Ulricehamn		|fotbollshallulricehamn@gmail.com							|70x40x7 |
+|Wahlbeckshallen		   |Linköping		|zzzkulfri@linkoping.se, 013-20 77 84/83					|70x40	|
+|Sörbyhallen			   |Gävle			|bokningen.kof@gavle.com anders.rollen@gavle.se				|65x45	|
+|Spångahallen			   |Spånga			|bokningen.idrott@stockholm.se Dennis Hedman				|65x40	|
+|Danderyds fotbollshall	   |Danderyd		|kansliet@fcdjursholm.se									|65x36	|
+|Gunnilsehallen			   |Göteborg		|kansli@gunnilseis.se										|60x40	|
+|Delsjöhallen			   |Göteborg		|info@ifkgoteborg.se christian.djuvfelt@ifkgoteborg.se		|60x40x6 |
+|Kombihallen			   |Halmstad		|															|60x40	|
+|Ulvåkershallen			   |Skövde			|hallbokning.ulvakersif@gmail.com							|60x40	|
+|Grimsta IP				   |Vällingby		|jan.ullberg@​stockholm.se carl.halvarsson@brommapojkarna.se|60x40	|
+|Maxihallen				   |Norrköping		| kansli@eneby-bk.se										|60x40x8|
+|Yttrenhallen			   |Kungälv			|kansli@ytterbyis.nu										|30x50	|
 
