@@ -163,6 +163,7 @@ Enkel kalkyl:
 3 lag med 26 spelare + 2 ledare i varje (84 personer)
 	=> 6x3x725 (spelare i 6 fyrbäddsrum per lag) x 3 + 4x725 + 2x825 (ledare)
 	=> 13.050 x 3 + 4.550 = 43.700
+		(om 725/natt 13.050x3=39.150 extra)
 
 lunch dag 2 för 84 personer 
 	=> 84 x 88 = 7.392
@@ -178,6 +179,6 @@ SUMMA: 82.592kr (983kr/person)
 lunch dag 2 
 	=> 16 x 88 = 1.408
 
-TOTAL: 95.700
+TOTAL: 95.700 (om 725/natt blir det 134.850)
 ```
 
