@@ -161,15 +161,15 @@ Enkel kalkyl:
 * Ytterligare 2150kr/tim för helplan
 
 3 lag med 26 spelare + 2 ledare i varje (84 personer)
-	=> 6x3x725 (spelare i 6 fyrbäddsrum per lag x 3) + 4x725 + 2x825 (ledare)
-	=> 13.050 + 4.550 = 17.600
+	=> 6x3x725 (spelare i 6 fyrbäddsrum per lag) x 3 + 4x725 + 2x825 (ledare)
+	=> 13.050 x 3 + 4.550 = 43.700
 
 lunch dag 2 för 84 personer 
 	=> 84 x 88 = 7.392
 
 Hyra av helplan i 10h => 2150 x 10 = 21.500
 
-SUMMA: 46.492kr
+SUMMA: 82.592kr (983kr/person)
 
 
 16 personer i tränarutbildning
@@ -178,6 +178,6 @@ SUMMA: 46.492kr
 lunch dag 2 
 	=> 16 x 88 = 1.408
 
-TOTAL: 59.500
+TOTAL: 95.700
 ```
 
