@@ -52,6 +52,55 @@ Grov plan
 Lördag
 --------
 
+| Tid  | Slot plan 1 | Slot plan 2       | Föreläsning        | F(rukost) / L(unch) / M(iddag)    |
+|------|-------------|-------------------|--------------------|-----------------------------------|
+|11:30 |             |                   |                    | L: U17M & U17/20G                 |
+|12:00 |             |                   |                    | L: U20M & CoachUtb                |
+|13:00 | L1.1 U17M-P | L1.2 U17/20G-P    |                    |                                   |
+|14:00 | L2.1 U17M-P | L2.2 U17/20G-P    |                    |                                   |
+|15:00 | L3.1 U20M-P | L3.2 CU1          | U17/20G            |                                   |
+|16:00 | L4.1 U20M-P | L4.2 CU2          | U17M               |                                   |
+|17:00 | L5.1 U17M-G1| L5.2 U17/20G-G1   | U20M               |                                   |
+|18:00 | L6.1 U17M-G2| L6.2 U17/20G-G2   |                    | M: U20M & CoachUtb                |
+|19:00 | L7.1 U20M-G1| L7.2 CU3          |                    | M: U17M & U17/20G                 |             
+|20:00 | L8.1 U20M-G2| L8.2 CU4          |                    |                                   |
+
+16 slots
+
+
+Söndag
+---------
+
+|      |     Plan 1           |   Plan 2                 | Föreläsning      | F(rukost) / L(unch) / M(iddag) |
+|------|----------------------|--------------------------|------------------|--------------------------------|
+|7:00  |                      |                          |                  | F: U17M & U17/20G & U20M       |
+|8:00  | S1.1 U17M-G3         | S1.2 U17/20G-G3          |                  | F: CoachUtb                    |
+|9:00  | S2.1 U20M-G3         | S2.2 U17M-G4             |  Coacher         |                                |
+|10:00 | S3.1 U20M-G4         | S3.2 U17/20G-G4          |                  |                                |
+|11:00 | S4.1 U20M mot Coacher| S4.2 U17M mot U17/20     |                  |                                |
+|12:00 | S5.1 U20M mot Coacher| S5.2 U17M mot U17/20     |                  |                                |
+|13:00 |                      |                          |                  | L: U17M & U17/20G              |
+|13:30 |                      |                          |                  | L: U20M & CoachUtb             |
+
+10 slots
+
+
+
+Grov plan (gammal)
+----------
+
+* Börja med träningspass med landslagcoacherna
+* Sedan miniturnering: 3 lag per division alla möter alla - 3 matcher + final 1 match = 4 matcher (G1-4)
+  - x3 divisioner = 12 slots
+  - De som går coachutbildning coacher lagen under matcherna
+* 3 slots för CoachUtbildning
+* Landslagscoacherna håller i föreläsning under matcherna (taktik, regler etc.)
+
+
+
+Lördag
+--------
+
 | Tid  | Slot plan 1 | SLot plan 2       | Föreläsning        | F(rukost) / L(unch) / M(iddag)    |
 |------|-------------|-------------------|--------------------|-----------------------------------|
 | 8:00 |             |                   |                    | F: U17M & U17/20G                 |
